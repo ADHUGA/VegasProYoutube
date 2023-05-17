@@ -8,3 +8,4 @@ Then go to Tools->Scripting->Run Scripts...
 Select the Highlights.dll file.
 Follow the instructions within the Windows Form.
 After your videos are successfully on the timeline go to Tools->Scripting->Batch Render. To render out all the regions in order to make your Highlights
+Video Tutorial -> https://www.youtube.com/watch?v=6GT-rQLbWyg
