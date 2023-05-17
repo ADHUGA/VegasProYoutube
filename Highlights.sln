@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Highlights", "Highlights\Highlights.csproj", "{AF3D60AA-12C2-4032-BFAB-AA0376FA90A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF3D60AA-12C2-4032-BFAB-AA0376FA90A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF3D60AA-12C2-4032-BFAB-AA0376FA90A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF3D60AA-12C2-4032-BFAB-AA0376FA90A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF3D60AA-12C2-4032-BFAB-AA0376FA90A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B5C52E5-8728-44B9-957E-CCFFECAEE16C}
+	EndGlobalSection
+EndGlobal
